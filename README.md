@@ -3,7 +3,7 @@
 
 ## 📌 APRESENTAÇÃO
 
-O objetivo deste projeto foi colocar em prática a utilização de Python para uso de API, usando um conjunto de dados disponíveis na seguinte API pública: 'http://transparencia.al.gov.br/patrimonio/json-patrimonio-imobiliario/?limit=100&offset=0'.<br>
+O objetivo deste projeto foi colocar em prática a utilização de Python para uso de API e improvisar o uso de Python para Análise de Dados, usando um conjunto de dados disponíveis na seguinte API pública: 'http://transparencia.al.gov.br/patrimonio/json-patrimonio-imobiliario/?limit=100&offset=0'.<br>
 
 Para fazer isto elaborei a ingestão de dados no Python usando a biblioteca Requests, usando Pandas para extrair as dimensões da tabela fato, e finalizando com a visualização de métricas via PowerBI.
 

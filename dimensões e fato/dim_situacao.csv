@@ -1,0 +1,6 @@
+,id_situacao,situacao_ocupacao
+0,1,OCUPADO
+1,2,ATIVO
+2,3,INVADIDO
+3,4,DESOCUPADO
+4,5,DESATIVADO

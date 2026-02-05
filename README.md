@@ -13,8 +13,9 @@ sem substituir por completo o desenvolvimento e a compreensão do código.
 ## Pipeline
 1. Consumo de API com Python
 2. Construção de Tabelas Fato e Dimensão via Python
-3. Ingestão de dados no Power BI e métricas
-4. Dashboard para visuaização 
+3. Exportação de dados via Python para CSV
+4. Ingestão de dados no PowerBI
+5. Construção de métricas e visualizações via PowerBI
 
 ## Tecnologias Utilizadas
 - Python (Requests, Pandas)

@@ -19,6 +19,9 @@ sem substituir por completo o desenvolvimento e a compreensão do código.
 4. Ingestão de dados no PowerBI
 5. Construção de métricas e visualizações via PowerBI
 
+API → Python (ETL) → CSV → Power BI<br>
+
+
 ## Tecnologias Utilizadas
 - Python (Requests, Pandas)
 - Power BI (DAX)

@@ -29,5 +29,6 @@ API → Python (ETL) → CSV → Power BI<br>
 ## Dashboard
 O dashboard abaixo foi construídos no Power BI a partir das tabelas
 construídas no Python<br><br>
-<img width="1230" height="689" alt="IMG_BI_NH" src="https://github.com/user-attachments/assets/2f387742-d59c-4b64-bf8d-6630237dc172" />
+<img width="1409" height="788" alt="image" src="https://github.com/user-attachments/assets/e4f1de30-7a14-4e94-918b-fd00bc499bf7" />
+
 
